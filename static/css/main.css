@@ -1,0 +1,134 @@
+/* NAv BAR */
+@media (max-width : 767px) {
+  i {
+    color: #38A1F3;
+  }
+}
+
+body {
+  font-family: 'Open Sans', sans-serif !important;
+  text-align: left;
+}
+
+/* 타이틀 부분 */
+.title {
+  margin-top: 140px;
+  margin-bottom: 50px;
+}
+
+
+/* 이미지 검색 */
+@media (min-width: 320px) and (max-width: 480px) {
+  #image-field-align {
+    text-align: left  !important;
+    color: gray;
+  }
+
+}
+.try {
+  text-align: right;
+  font-size: 30px;
+}
+
+.icon-div {
+  text-align: center;
+}
+
+.icon {
+  font-size: 60px;
+  color: #808080;
+  text-shadow: 2px 2px 8px #a8a8a8
+}
+
+/* 결과 창 */
+.result {
+  margin-top: 50px;
+  border: solid 1px #e1e1e1;
+  min-height: 200px;
+}
+
+/* 이미지 입력 전 */
+.no-result {
+  margin-top: 30px;
+  text-align: center;
+  /*visibility: visible;*/
+  display: none;
+}
+
+/* 결과 창 */
+.is-result {
+  margin-top: 30px;
+  display: block;
+}
+
+/* fWHR 결과 */
+.fwhr-result {
+  /* height: 150px; */
+  text-align: center;
+  border: solid 1px #e1e1e1;
+  margin-top: 50px;
+}
+
+.fwhr-result>p {
+  margin-top: 10px;
+}
+
+/* 결과 창 이미지 바꾸기 */
+#ori-img {
+  max-height: 500px;
+  max-width: 300px;
+}
+
+#fwhr-img {
+  display: none;
+  max-height: 500px;
+  max-width: 300px;
+}
+
+#lmrk-img {
+  display: none;
+  max-height: 500px;
+  max-width: 300px;
+}
+
+#lmrk-img {
+  display: block;
+}
+
+/* 결과 창 radio buttons */
+.change-btns {
+  font-size: 18px;
+}
+
+/* About us  */
+#about-us-div {
+  margin-top: 200px;
+}
+
+div.about-us {
+  margin: auto;
+  text-align: center;
+}
+
+.about-us-img {
+  max-height: 150px;
+  border-radius: 3rem;
+}
+
+#about-us-content {
+  margin-top: 50px;
+  text-align: center;
+  width: 90%;
+}
+
+/* Contact */
+#contact-div {
+  margin-top: 200px;
+}
+
+/* FOOTER */
+footer {
+  margin-top: 100px;
+  text-align: center;
+  color: #808080;
+}
