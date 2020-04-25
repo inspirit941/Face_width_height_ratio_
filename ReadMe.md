@@ -2,6 +2,10 @@
 
 성균관대학교 글로벌경영학과 김영한 교수님 Research Assistant HaileyPARK, Donggeon Lee 작업.
 
+*The face of risk: CEO facial masculinity and firm risk* 라는 주제로 2018년에 발표한 논문의 Python 구현.
+
+https://onlinelibrary.wiley.com/doi/abs/10.1111/eufm.12175
+
 * HaileyPARK : OpenCV의 Face shape predictor landmark을 사용한 fwhr 측정코드 작성, Frontend css 및 js 작업. (~ 2019.10)
 * Donggeon Lee : views.py 디버깅, nginx와 gunicorn 활용해 AWS EC2에 Deploy 완료, AWS RDS로 데이터 수집 및 관리. 유지보수 작업 진행중 (2019.11 ~)
 
@@ -22,6 +26,4 @@
 ---
 
 
-*The face of risk: CEO facial masculinity and firm risk* 라는 주제로 2018년에 발표한 논문의 Python 구현.
 
-https://onlinelibrary.wiley.com/doi/abs/10.1111/eufm.12175
